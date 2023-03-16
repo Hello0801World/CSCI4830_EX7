@@ -14,6 +14,6 @@ public class Program {
 
 		String srcName = serviceApp.getName();
 		System.out.println("  SRC NAME: " + srcName);
-		System.out.println("[DBG] Done.");
+		
 	}
 }
